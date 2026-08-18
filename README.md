@@ -143,19 +143,5 @@ Modern responsive website focused on:
 <img src="https://skillicons.dev/icons?i=python" />
 
 ### 🧠 Exploring Artificial Intelligence
-
-```text
-                    ┌─────────────────────┐
-                    │   ARTIFICIAL        │
-                    │   INTELLIGENCE      │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-        ┌──────────┐     ┌──────────┐     ┌──────────┐
-        │   ML     │     │   DATA   │     │ PYTHON   │
-        └──────────┘     └──────────┘     └──────────┘
-              │                │                │
-              └────────────────┼────────────────┘
                                ▼
                        🚀 REAL PROJECTS
