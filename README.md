@@ -1,156 +1,161 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Ali
+# ⚡ AHMED ALI
 
-### 🤖 Artificial Intelligence Student | 💻 Front-End Developer
+### 🤖 Artificial Intelligence Student • 💻 Front-End Developer
 
-<p>
-  <a href="https://github.com/Ahmed_Ali">
-    <img src="https://img.shields.io/badge/GitHub-Ahmed_Ali-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ahmed%20Ali&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Front-End%20%7C%20Python%20%7C%20SQL&descAlignY=60&descSize=20&color=0:0f172a,50:1e3a8a,100:06b6d4"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Front-End+Developer;Python+%7C+JavaScript+%7C+SQL;Machine+Learning+Enthusiast;Building+%E2%80%A2+Learning+%E2%80%A2+Improving" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ahmed_Ali&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 WHO AM I?
 
-🎓 Artificial Intelligence Student
+<table>
+<tr>
+<td width="55%">
 
-🤖 Interested in Artificial Intelligence & Machine Learning
+## 👋 Hey, I'm Ahmed
 
-🌐 Front-End Development enthusiast
+I'm an **Artificial Intelligence student** interested in combining:
 
-🐍 Working with Python
+💻 **Web Development**
 
-🗄️ Learning SQL & Database Systems
+🤖 **Artificial Intelligence**
 
-💡 I enjoy building practical projects and continuously improving my technical skills.
+🧠 **Machine Learning**
 
----
+🐍 **Python**
 
-## 🛠️ Tech Stack
+🗄️ **SQL & Databases**
 
-### 💻 Programming Languages
+I enjoy transforming ideas into real projects and continuously improving my development skills.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js" />
-</p>
+</td>
 
-### 🌐 Front-End Development
+<td width="45%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql,git,github,vscode&perline=3" />
 
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 🗄️ Database & SQL
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 Front-End Projects
-
-**🛒 E-Commerce Website**
-
-A responsive e-commerce website built with HTML, CSS and JavaScript.
-
-**☕ Coffee Website**
-
-A modern responsive website focused on clean UI and responsive design.
-
----
-
-### 🤖 AI & Machine Learning
-
-**🧠 Machine Learning Projects**
-
-Practical projects exploring data preprocessing, machine learning algorithms,
-and model evaluation using Python.
-
----
-
-### 🗄️ Database Projects
-
-**📊 SQL & Database Projects**
-
-Projects involving database design, SQL queries, joins, aggregation,
-and relational data management.
-
----
-
-## 📊 GitHub Stats
+# 🧊 MY TECH STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed_Ali&show_icons=true&theme=tokyonight&hide_border=true" />
+### 💻 Programming
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed_Ali&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
 
-</div>
+<br><br>
 
----
+### 🌐 Front-End
 
-## 🔥 GitHub Streak
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-<div align="center">
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Ahmed_Ali&theme=tokyonight&hide_border=true" />
+### 🤖 AI / Machine Learning
 
-</div>
+<img src="https://skillicons.dev/icons?i=python" />
 
----
+<br><br>
 
-## 📈 Contribution Graph
+### 🗄️ Database
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed_Ali&theme=tokyo-night&hide_border=true" />
+<br><br>
 
-</div>
+### 🛠️ Tools
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Ahmed_Ali">
-  <img src="https://img.shields.io/badge/GitHub-Ahmed_Ali-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌐 E-Commerce Website
+
+### 🛒 Front-End Project
+
+Responsive e-commerce website built using:
+
+`HTML` `CSS` `JavaScript`
+
+**Features**
+
+- 📱 Responsive Design
+- 🎨 Modern UI
+- ⚡ Interactive Elements
+- 🛍️ Product Interface
+
+</td>
+
+<td width="50%">
+
+## ☕ Coffee Website
+
+### 🎨 Front-End Project
+
+Modern responsive website focused on:
+
+`HTML` `CSS` `JavaScript`
+
+**Features**
+
+- ✨ Modern UI
+- 📱 Responsive Layout
+- 🎯 Clean Design
+- ⚡ Interactive Components
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤖 AI & MACHINE LEARNING
+
 <div align="center">
 
-### 💡 Learning • Building • Improving
+<img src="https://skillicons.dev/icons?i=python" />
 
-⭐ Thanks for visiting my profile!
+### 🧠 Exploring Artificial Intelligence
 
-</div>
+```text
+                    ┌─────────────────────┐
+                    │   ARTIFICIAL        │
+                    │   INTELLIGENCE      │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        ┌──────────┐     ┌──────────┐     ┌──────────┐
+        │   ML     │     │   DATA   │     │ PYTHON   │
+        └──────────┘     └──────────┘     └──────────┘
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                       🚀 REAL PROJECTS
